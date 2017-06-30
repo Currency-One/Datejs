@@ -1,0 +1,23 @@
+{
+  "name": "datejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Currency-One/Datejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Currency-One/Datejs/issues"
+  },
+  "homepage": "https://github.com/Currency-One/Datejs#readme"
+}
